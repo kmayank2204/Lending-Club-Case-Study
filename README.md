@@ -8,9 +8,9 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-Our company is into consumer finance and gives loans to customers with varying interest rates & loan periods and always there is always a risk of defaulting on the loan by the borrower.  
+The data provided to perform the EDA analysis pertains to a list of customers who have been lended a principal amount in the past. Based on this past data a user has been identified as Fully Paid, Charged Off or Currently paying. 
+
+Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
 
 - What is the business problem that your project is trying to solve?
 Our objective is to identify the driving factors behind such non-repayment of loans by borrowers, so that our company can take appropriate measures to minimise risk of default.
